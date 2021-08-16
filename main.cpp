@@ -25,9 +25,22 @@ int main() {
 //    p477test();
 //    int p477();
 //    p477();
+//30
+//    int p473();
+//    p473();
 
-    int p473();
-    p473();
+//    int p474();
+//    p474();
+
+//30
+//    int p472test();
+//    p472test();
+//    int p472();
+//    p472();
+
+//error
+    int p471();
+    p471();
 
     std::cout << "Hello, World!" << std::endl;
     return 0;
